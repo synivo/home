@@ -1,5 +1,5 @@
 # Design-Driven, Code-Powered, Globally Focused.
-Hi there 👋, Welcome to Synivo
+Hi there 👋, Welcome to Synivo\
 Synivo delivers tailor-made digital products and brand experiences that move businesses forward. We are committed to finding innovative and unconventional solutions. Pushing boundaries to exceed client goals.
 
 ## About Us:
