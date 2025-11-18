@@ -11,7 +11,7 @@ Synivo is a digital studio crafting design and development solutions. From brand
 - [Mobile App Development](https://synivo.tech/services/mobileapp-dev)
 - [Web Development](https://synivo.tech/services/web-dev)
 - [Software Engineering](https://synivo.tech/services/software-engineering)
-Many More...
+- Many More...
 
 ---
 
